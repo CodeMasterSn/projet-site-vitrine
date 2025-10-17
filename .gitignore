@@ -1,0 +1,39 @@
+# Fichiers système
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Fichiers d'éditeur
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Fichiers temporaires
+*.tmp
+*.temp
+*.log
+
+# Fichiers de build (si ajoutés plus tard)
+dist/
+build/
+node_modules/
+
+# Fichiers de configuration locale
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Fichiers de cache
+.cache/
+.parcel-cache/
+
+# Fichiers de déploiement
+.netlify/
